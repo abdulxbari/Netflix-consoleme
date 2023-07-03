@@ -641,7 +641,7 @@ pydocstyle==5.1.1
     # via flake8-docstrings
 pyflakes==2.3.0
     # via flake8
-pygments==2.8.1
+pygments==2.15.0
     # via
     #   -c requirements.txt
     #   -r requirements.txt
